@@ -2,3 +2,4 @@ hello
 how are you?
 what are you doing now?
 github or not ?
+http://stealjs.com/docs/StealJS.quick-start.html
